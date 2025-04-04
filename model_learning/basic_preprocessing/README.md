@@ -30,8 +30,8 @@
 
 참고자료 :
 
-[학위논문] 족저압을 이용한 보행 밸런스 분석Analysis of Gait balance using Plantar Pressure - 이명재 - 9p
-https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015549935#;
+>[학위논문] 족저압을 이용한 보행 밸런스 분석Analysis of Gait balance using Plantar Pressure - 이명재 - 9p
+>https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015549935#;
 
 <br/>
 
