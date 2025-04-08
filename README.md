@@ -4,6 +4,8 @@
 
 <img src="./src_img/MAIN_title.gif" alt="plot01" width="500">
 
+<img src="./src_img/MAIN_prototype.jpg" alt="plot01" width="500">
+
 <br/>
 
 데이터 전처리 및 모델학습, 간단한 GUI 구현을 다루는 문서로,
@@ -37,7 +39,9 @@
 │   ├── raw_data/
 │   │   ├── normal/      
 │   │   └── right_weight/     
-│   └── README.md                                     
+│   └── README.md 
+├── file/ 
+│   └── 
 ├── model_learning/   
 │   ├── basic_preprocessing/
 │   │   ├── 01_data_spride_cutting.py     
