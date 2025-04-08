@@ -26,6 +26,35 @@
 
 > 모든 개인식별 정보는 제거되었으며, 연구 및 교육 목적의 공개를 위한 비식별화가 완료되었습니다.
 
+<br/>
+
+## 파트별 README 바로가기
+
+### DATA
+
+직접 수집한 데이터에 관한 README 입니다.
+
+[데이터_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/blob/main/data)
+
+### DATA_Preprocessing
+
+데이터 전처리에 관한 README 입니다.
+
+[데이터_전처리_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/tree/main/model_learning/basic_preprocessing)
+
+### CRNN_Model_leraning
+
+1차 모델 학습 - CRNN 모델 학습에 관한 README 입니다.
+
+[데이터_전처리_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/tree/main/model_learning/CRNN)
+
+### RNN_Model_leraning
+
+2차 모델 학습 - RNN 모델 학습에 관한 README 입니다.
+
+[데이터_전처리_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/tree/main/model_learning/RNN)
+
+<br/>
 
 ## 디렉토리 구조
 
@@ -64,6 +93,8 @@
 └── UI_APP.py
 ```
 
+
+## UI
 
 
 
