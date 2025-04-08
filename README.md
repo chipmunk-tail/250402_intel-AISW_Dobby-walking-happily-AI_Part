@@ -46,13 +46,13 @@
 
 1차 모델 학습 - CRNN 모델 학습에 관한 README 입니다.
 
-[데이터_전처리_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/tree/main/model_learning/CRNN)
+[CRNN_모델학습_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/tree/main/model_learning/CRNN)
 
 ### RNN_Model_leraning
 
 2차 모델 학습 - RNN 모델 학습에 관한 README 입니다.
 
-[데이터_전처리_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/tree/main/model_learning/RNN)
+[RNN_모델학습_설명_바로가기](https://github.com/chipmunk-tail/250402_intel-AISW_Dobby-walking-happily-AI_Part/tree/main/model_learning/RNN)
 
 <br/>
 
