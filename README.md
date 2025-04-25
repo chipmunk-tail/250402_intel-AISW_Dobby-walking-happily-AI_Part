@@ -28,6 +28,12 @@
 
 <br/>
 
+## 간트 차트
+<img src="./src_img/MAIN_gant_chart.png" alt="plot01" width="500">
+
+
+<br/>
+
 ## 파트별 README 바로가기
 
 ### DATA
